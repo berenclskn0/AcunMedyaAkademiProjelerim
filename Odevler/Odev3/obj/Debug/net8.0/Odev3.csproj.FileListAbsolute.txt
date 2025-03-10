@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odevler\Odev3\bin\Debug\net8.0\Odev3.exe
+Z:\Desktop\C#\Odevler\Odev3\bin\Debug\net8.0\Odev3.deps.json
+Z:\Desktop\C#\Odevler\Odev3\bin\Debug\net8.0\Odev3.runtimeconfig.json
+Z:\Desktop\C#\Odevler\Odev3\bin\Debug\net8.0\Odev3.dll
+Z:\Desktop\C#\Odevler\Odev3\bin\Debug\net8.0\Odev3.pdb
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.AssemblyInfo.cs
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.dll
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\refint\Odev3.dll
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.pdb
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\Odev3.genruntimeconfig.cache
+Z:\Desktop\C#\Odevler\Odev3\obj\Debug\net8.0\ref\Odev3.dll
