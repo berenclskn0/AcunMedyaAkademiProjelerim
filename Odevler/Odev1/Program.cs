@@ -1,6 +1,11 @@
 ﻿using Odev1;
 
-Insan insan = new Insan();
-int yas = insan.yasHesapla(2003);
-string sonuc = insan.yasBelirleme(yas);
-Console.WriteLine($"Yaşınız: {yas} --> {sonuc}");
+Marka marka = new Marka("BMW");
+Model model = new Model("X5");
+Kapi kapi = new Kapi(4);
+Pencere pencere = new Pencere(4);
+Kasa kasa = new Kasa("Suv");
+int fiyat = 2000000;
+
+Araba araba = new Araba(marka, model, kapi, pencere, kasa, fiyat);
+araba.bilgileriGoster();

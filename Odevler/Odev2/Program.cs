@@ -1,11 +1,8 @@
 ﻿using Odev2;
 
-Araba araba = new Araba();
+Matematik matematik = new Matematik();
 
-int yas = araba.yasHesapla(2024);
-string sonuc = araba.durum(yas);
-Console.WriteLine($"Arabanız {yas} yaşında --> {sonuc}");
-
-int yas2 = araba.yasHesapla(2015);
-string sonuc2 = araba.arabaDurum(yas2);
-Console.WriteLine($"Arabanız {yas2} yaşında --> {sonuc2}");
+matematik.topla(2.5, 3.5);
+matematik.topla(3, 4, 5);
+matematik.carp(3, 2);
+matematik.carp(1, 2, 4);
