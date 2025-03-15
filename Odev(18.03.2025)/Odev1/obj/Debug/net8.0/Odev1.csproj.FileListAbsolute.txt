@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\bin\Debug\net8.0\Odev1.exe
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\bin\Debug\net8.0\Odev1.deps.json
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\bin\Debug\net8.0\Odev1.runtimeconfig.json
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\bin\Debug\net8.0\Odev1.dll
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\bin\Debug\net8.0\Odev1.pdb
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.AssemblyInfo.cs
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.dll
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\refint\Odev1.dll
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.pdb
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\Odev1.genruntimeconfig.cache
+Z:\Desktop\C#\Odev(18.03.2025)\Odev1\obj\Debug\net8.0\ref\Odev1.dll
