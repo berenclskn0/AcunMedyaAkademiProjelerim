@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\bin\Debug\net8.0\Odev_MerhabaDunya.exe
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\bin\Debug\net8.0\Odev_MerhabaDunya.deps.json
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\bin\Debug\net8.0\Odev_MerhabaDunya.runtimeconfig.json
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\bin\Debug\net8.0\Odev_MerhabaDunya.dll
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\bin\Debug\net8.0\Odev_MerhabaDunya.pdb
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.AssemblyInfo.cs
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.dll
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\refint\Odev_MerhabaDunya.dll
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.pdb
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\Odev_MerhabaDunya.genruntimeconfig.cache
+Z:\Desktop\C#\Odev_MerhabaDunya\Odev_MerhabaDunya\obj\Debug\net8.0\ref\Odev_MerhabaDunya.dll
