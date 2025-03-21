@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\bin\Debug\net8.0\Odev_HesapMakinesi.exe
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\bin\Debug\net8.0\Odev_HesapMakinesi.deps.json
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\bin\Debug\net8.0\Odev_HesapMakinesi.runtimeconfig.json
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\bin\Debug\net8.0\Odev_HesapMakinesi.dll
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\bin\Debug\net8.0\Odev_HesapMakinesi.pdb
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.AssemblyInfo.cs
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.dll
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\refint\Odev_HesapMakinesi.dll
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.pdb
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\Odev_HesapMakinesi.genruntimeconfig.cache
+Z:\Desktop\C#\Odev_HesapMakinesi\Odev_HesapMakinesi\obj\Debug\net8.0\ref\Odev_HesapMakinesi.dll
