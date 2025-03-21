@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\bin\Debug\net8.0\Odev_SayiTahminOyunu.exe
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\bin\Debug\net8.0\Odev_SayiTahminOyunu.deps.json
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\bin\Debug\net8.0\Odev_SayiTahminOyunu.runtimeconfig.json
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\bin\Debug\net8.0\Odev_SayiTahminOyunu.dll
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\bin\Debug\net8.0\Odev_SayiTahminOyunu.pdb
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.AssemblyInfo.cs
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.dll
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\refint\Odev_SayiTahminOyunu.dll
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.pdb
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\Odev_SayiTahminOyunu.genruntimeconfig.cache
+Z:\Desktop\C#\Odev_SayiTahminOyunu\Odev_SayiTahminOyunu\obj\Debug\net8.0\ref\Odev_SayiTahminOyunu.dll
