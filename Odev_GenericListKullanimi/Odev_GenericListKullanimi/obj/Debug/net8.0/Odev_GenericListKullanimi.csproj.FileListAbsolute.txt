@@ -1,0 +1,14 @@
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\bin\Debug\net8.0\Odev_GenericListKullanimi.exe
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\bin\Debug\net8.0\Odev_GenericListKullanimi.deps.json
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\bin\Debug\net8.0\Odev_GenericListKullanimi.runtimeconfig.json
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\bin\Debug\net8.0\Odev_GenericListKullanimi.dll
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\bin\Debug\net8.0\Odev_GenericListKullanimi.pdb
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.AssemblyInfoInputs.cache
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.AssemblyInfo.cs
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.dll
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\refint\Odev_GenericListKullanimi.dll
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.pdb
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\Odev_GenericListKullanimi.genruntimeconfig.cache
+Z:\Desktop\C#\Odev_GenericListKullanimi\Odev_GenericListKullanimi\obj\Debug\net8.0\ref\Odev_GenericListKullanimi.dll
