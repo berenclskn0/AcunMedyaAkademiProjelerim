@@ -1,0 +1,16 @@
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.exe
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.deps.json
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.runtimeconfig.json
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.dll
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\bin\Debug\net8.0-windows\ArabaBilgiFormu.pdb
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.ArabaBilgiFormu.resources
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.csproj.GenerateResource.cache
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.AssemblyInfoInputs.cache
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.AssemblyInfo.cs
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.dll
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\refint\ArabaBilgiFormu.dll
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.pdb
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ArabaBilgiFormu.genruntimeconfig.cache
+Z:\Desktop\C#\ArabaBilgiFormu\ArabaBilgiFormu\obj\Debug\net8.0-windows\ref\ArabaBilgiFormu.dll
