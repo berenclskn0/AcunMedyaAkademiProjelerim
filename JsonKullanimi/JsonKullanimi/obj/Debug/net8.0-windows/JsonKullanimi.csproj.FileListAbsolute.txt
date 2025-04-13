@@ -1,0 +1,17 @@
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\JsonKullanimi.exe
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\JsonKullanimi.deps.json
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\JsonKullanimi.runtimeconfig.json
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\JsonKullanimi.dll
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\JsonKullanimi.pdb
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.Form1.resources
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.csproj.GenerateResource.cache
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.AssemblyInfoInputs.cache
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.AssemblyInfo.cs
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.dll
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\refint\JsonKullanimi.dll
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.pdb
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\JsonKullanimi.genruntimeconfig.cache
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\obj\Debug\net8.0-windows\ref\JsonKullanimi.dll
+Z:\Desktop\C#\JsonKullanimi\JsonKullanimi\bin\Debug\net8.0-windows\Urunler.json
