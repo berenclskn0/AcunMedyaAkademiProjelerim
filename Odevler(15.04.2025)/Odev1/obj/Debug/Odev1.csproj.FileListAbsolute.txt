@@ -1,0 +1,10 @@
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\bin\Debug\Odev1.exe.config
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\bin\Debug\Odev1.exe
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\bin\Debug\Odev1.pdb
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.csproj.AssemblyReference.cache
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.Form1.resources
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.Properties.Resources.resources
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.csproj.GenerateResource.cache
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.csproj.CoreCompileInputs.cache
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.exe
+Z:\Desktop\C#\Odevler(15.04.2025)\Odev1\obj\Debug\Odev1.pdb
