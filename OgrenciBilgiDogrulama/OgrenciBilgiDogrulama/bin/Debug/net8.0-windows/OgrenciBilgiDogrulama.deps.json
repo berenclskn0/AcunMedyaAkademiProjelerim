@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OgrenciBilgiDogrulama/1.0.0": {
+        "runtime": {
+          "OgrenciBilgiDogrulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OgrenciBilgiDogrulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
